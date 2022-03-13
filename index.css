@@ -1,0 +1,85 @@
+.main{
+    border: 2px solid black;
+    width: 550px;
+    margin: auto;
+}
+.div1{
+margin: auto;
+width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+.div2{
+   margin: auto;
+width: 550px;
+height: 550px;
+left: 705px;
+top: 83px;
+
+background: #FBF7EE;
+}
+h2 {
+    /* Heading */
+
+
+margin: auto;
+width: 448.4px;
+height: 38px;
+left: 51px;
+top: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+
+}
+h1{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+font-size: 8rem;
+color: white;
+font-family: 'Inter';
+
+
+}
+h5{
+    width: 50%;
+    border:1px solid #FB3796;
+    font-size: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+}
+button{
+    width: 100%;
+    outline: none;
+    border: none;
+margin: 0%;
+padding: 0%;
+
+}
+h6{
+    font-size: 18px;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-top: 1%;
+    color: black;
+    width: 70%;
+    margin-bottom: 2%;
+}
+.btn{
+    border: 2px solid black;
+    background-color: #FFFFFF;    
+}
